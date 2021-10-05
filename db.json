@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "name": "Aprende a programaraaa",
+      "price": "90",
+      "id": 4
+    },
+    {
+      "name": "tarea",
+      "price": 50,
+      "id": 5
+    },
+    {
+      "name": "Aprende a programar",
+      "price": 23,
+      "id": 6
+    },
+    {
+      "name": "Nuevo Producto",
+      "price": 50,
+      "id": 7
+    }
+  ]
+}
